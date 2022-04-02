@@ -6,3 +6,6 @@
 - name: install httpd
   package:
     name: httpd
+- name: install puppet
+  package:
+    name: puppet
